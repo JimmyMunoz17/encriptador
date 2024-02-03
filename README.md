@@ -1,6 +1,6 @@
 <h1 align="center"> Encriptador web </h1>
 
-![Encriptador web](https://github.com/JimmyMunoz17/skeleton_portfolio_web/blob/main/assets/img_readme/PortafolioWeb.png)
+![Encriptador web](https://github.com/JimmyMunoz17/encriptador/blob/main/img/mockup.png)
 
 <p align="center">
    <a href="https://jimmymunoz17.github.io/encriptador/"><img src="https://github.githubassets.com/assets/GitHub-Mark-ea2971cee799.png" idth="50" height="50" alt="Encriptador web"</a>
